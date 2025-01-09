@@ -22,7 +22,7 @@
 ---
 **1. Fork The Repo**
     <br>
-<a href="https://github.com/Payoeboi/PAYOEBO-XMD/fork"><img title="PAYIEBOI-XMD" src="https://img.shields.io/badge/FORK KANGO-XMD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Payoeboi/PAYOEBO-XMD/fork"><img title="PAYIEBOI-XMD" src="https://img.shields.io/badge/FORK PAYOEBOI-XMD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 **2.  PAIR CODE GET**
     <br>
