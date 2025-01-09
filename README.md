@@ -8,7 +8,7 @@
 
   <p align="center">  
   <a href="https://files.catbox.moe/kkpy93.jpg">
-    <img alt="PAYOEBOI-XMD" height="200" src="https://i.imgur.com/05b4RaE.jpeg">
+    <img alt="PAYOEBOI-XMD" height="200" src="https://files.catbox.moe/kkpy93.jpg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
